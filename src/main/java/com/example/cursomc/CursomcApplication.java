@@ -31,7 +31,10 @@ import com.example.cursomc.repositories.PagamentoRepository;
 import com.example.cursomc.repositories.PedidoRepository;
 import com.example.cursomc.repositories.ProdutoRepository;
 
+
+
 @SpringBootApplication
+
 public class CursomcApplication implements CommandLineRunner {
 
 	@Autowired
